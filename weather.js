@@ -3,7 +3,7 @@ const form = document.querySelector(".top-banner form");
 const input = document.querySelector(".top-banner input");
 const msg = document.querySelector(".top-banner .msg");
 const list = document.querySelector(".ajax-section .cities");
-/*SUBSCRIBE HERE FOR API KEY: https://home.openweathermap.org/users/sign_up*/
+
 const apiKey = "8971175826c28f2aa92a6a01bddc49e0";
 
 form.addEventListener("submit", e => {
